@@ -1,4 +1,4 @@
-### Hi 👋, I'am VASANTH 
+Hi 👋, I'am VASANTH 
 
 <!--
 **vasanthvnr/vasanthvnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
