@@ -1,5 +1,5 @@
 # 💫 Hey I'm Vasanth S
-🔭 I’m currently pursuing my final year B Tech Information Technology in Vel Tech High Tech Dr Rangarajan Dr Sakunthala Engineering college.<br>👯 I’ve knowledge about Flutter, SpringBoot, React, FrontEnd.<br>🌱 I’m always Calm and Cool<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently pursuing my final year B Tech Information Technology in Vel Tech High Tech Dr Rangarajan Dr Sakunthala Engineering college.<br>👯 I’ve strongly intrest in Mobile app development and web development .<br>🌱 I've a core competency in Flutter, SpringBoot and Flask. <br> I am always endrosing people who ask me a doubt.<br> My Hobby is listening Music.
 
 
 ## 🌐 Socials:
